@@ -1,0 +1,6 @@
+C:\Users\elev\Documents\GitHub\P2-Uppgift1_hugo_hj-lte\P2-Uppgift1_hugo_hjälte\bin\Debug\P2-Uppgift1_hugo_hjälte.exe.config
+C:\Users\elev\Documents\GitHub\P2-Uppgift1_hugo_hj-lte\P2-Uppgift1_hugo_hjälte\obj\Debug\P2-Uppgift1_hugo_hjälte.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\P2-Uppgift1_hugo_hj-lte\P2-Uppgift1_hugo_hjälte\bin\Debug\P2-Uppgift1_hugo_hjälte.exe
+C:\Users\elev\Documents\GitHub\P2-Uppgift1_hugo_hj-lte\P2-Uppgift1_hugo_hjälte\bin\Debug\P2-Uppgift1_hugo_hjälte.pdb
+C:\Users\elev\Documents\GitHub\P2-Uppgift1_hugo_hj-lte\P2-Uppgift1_hugo_hjälte\obj\Debug\P2-Uppgift1_hugo_hjälte.exe
+C:\Users\elev\Documents\GitHub\P2-Uppgift1_hugo_hj-lte\P2-Uppgift1_hugo_hjälte\obj\Debug\P2-Uppgift1_hugo_hjälte.pdb
